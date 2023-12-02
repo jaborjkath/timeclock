@@ -1,0 +1,35 @@
+body{
+	font-family: Trebuchet MS;
+	font-size:12pt
+}
+#container {
+		display: block;
+		border-left: 1px solid #808080;
+		border-right: 1px solid #808080;
+		position:absolute;
+		z-index:1;
+		font-size: 13px;
+}
+#container ul {
+		margin: 0;
+		padding: 0;
+		list-style: none;
+}
+#container li{
+		display:block;
+		clear:both;
+}
+#container a {
+		width:160px;
+		display: block;
+		padding: .2em .3em;
+		text-decoration: none;
+		color: #000000;
+		background-color: #ffffff;
+		text-align: left;
+}
+#container a:hover{
+		color: #fff;
+		background-color: #F17600;
+		background-image: none;
+}
