@@ -9,7 +9,7 @@
   - Log In
 - Dashboard
   - Actions: Time In / Break / Out
-  - Save a Note: using sidebar text field or textfield beside a 'small floppy disk' 💾 icon
+  - Save a Note: using sidebar text field or text field beside a 'small floppy disk' 💾 icon
 - Log out
 
 ## Inspiration
