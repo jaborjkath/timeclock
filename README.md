@@ -12,6 +12,9 @@
   - Save a Note: using sidebar text field or text field beside a 'small floppy disk' 💾 icon
 - Log out
 
+## Tech Stack
+- HTML, CSS, PHP, Javascript, jQuery
+  
 ## Inspiration
 
   💡 An assignment submitted for a Self-Improvement Training.
