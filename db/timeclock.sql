@@ -83,4 +83,4 @@ CREATE TABLE IF NOT EXISTS `users` (
 --
 
 INSERT INTO `users` (`user_id`, `fk_employee_id`, `user_name`, `password`) VALUES
-(1, '0001', 'kath', 'realkeep3r');
+(1, '0001', 'kath', 'kath');
