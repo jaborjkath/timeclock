@@ -13,7 +13,7 @@
 - Log out
 
 ## Tech Stack
-- HTML, CSS, PHP, Javascript, jQuery
+- HTML, CSS, PHP, JavaScript, jQuery
   
 ## Inspiration
 
