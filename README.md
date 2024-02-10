@@ -9,7 +9,8 @@
   - Log In
 - Dashboard
   - Actions: Time In / Break / Out
-  - Save a Note: using sidebar text field or text field beside a 'small floppy disk' 💾 icon
+  - Save a Note:
+     - option 1: Employee can type their 'note' input on the sidebar's textarea field and save it using any action(s): Time In / Break / Out.
 - Log out
 
 ## Tech Stack
